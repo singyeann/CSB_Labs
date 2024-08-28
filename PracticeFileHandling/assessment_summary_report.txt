@@ -1,0 +1,29 @@
+
+
+School Assessment Summary Report:
+====================================
+Student name: John
+Student ID: 101
+Enroll in: Summer
+
+1. Overall Performance:
+   - Average score: 87.6
+   - Overall Grade: B
+2. Subject-wise Analysis:
+   + Subject grades:
+   - INF 652: Score: 78, Grade: C
+   - CSC 241: Score: 89, Grade: B
+   - ITM 101: Score: 90, Grade: A
+   - ITM 371: Score: 94, Grade: A
+   - COSC 201: Score: 88, Grade: B
+   * ITM 371: Highest scoring subject of 94.
+   * COSC 201: Lowest scoring subject of 78.
+3. Notable Observations:
+   - ITM 371 course shows a great accomplishment.
+4. Web Data Insights:
+   - Student email: myschool@gmail.com
+   - Online class participation duration: 46 minutes
+5. Recommendations:
+   - Try to improve your performance in COSC 201 course.
+
+Report generated on: 2024-08-28
